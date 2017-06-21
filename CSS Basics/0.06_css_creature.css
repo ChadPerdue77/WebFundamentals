@@ -1,0 +1,64 @@
+.wrapper{
+	margin: 100px 500px 100px 500px;
+}
+.body{
+	width:125px;
+	height: 100px;
+	border: solid 1.5px #f28e8e;
+	background-color: lightpink;
+	border-radius: 200px 100px 100px 200px;
+}
+.eye{
+	width: 20px;
+	height: 20px;
+	border: solid 1px black;	
+	border-radius: 100px;
+	z-index: 1;
+	position: relative;
+	left: 5px;
+	top: 21px;
+	background-color: white;
+}
+.innereye{
+	width: 5px;
+	height: 8px;
+	border: solid 1px black;	
+	border-radius: 100px;
+	z-index: 1;
+	position: relative;
+	left: 1px;
+	top: 8px;
+	background-color: black;
+}
+.mouth{
+	width: 60px;
+	height: 37px;
+	border: solid 1px white;	
+	border-radius: 14px 87px 57px 87px; 
+	margin: 16px;
+	position: relative;
+	top: 13px;
+	left: -18px;
+	background-color: white;
+}
+.body2{
+	width: 150px;
+	height: 100px;
+	z-index: -1;
+	border: solid 1.5px #f28e8e;
+	border-radius: 200px 200px 200px 200px; 
+	position: relative;
+	top: -105px;
+	left: 82px;
+	background-color: lightpink;	
+	border
+}
+.tooth{
+	width: 0; 
+    height: 0; 
+    border-left: 20px;
+    border-right: 20px;
+    border-top: 20px solid white;
+    background-color: white;
+    border-color: black;
+}
