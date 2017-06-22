@@ -24,7 +24,6 @@ var password = "lilpumpyah";
 
 if(password === "lilpumpyah"){
 	console.log("esketit!");
-
 } else {
 	console.log("Incorrect Password");
 }
@@ -33,7 +32,7 @@ if(password === "lilpumpyah"){
 //8 characters
 //have a #
 
-var newpassword = "Whatever";
+var newpassword = "Whatever9";
 
 if(newpassword ===)
 
