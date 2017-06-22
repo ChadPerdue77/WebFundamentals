@@ -16,3 +16,14 @@ if(coltsWin > patsWin){
 // fizz = dividable by 3
 // buzz = dividable by 5
 // fizzbuzz = dividable by both 3 && 5
+var fizz = 
+for(var c = 0; c < 101; c++5){
+	console.log(c);
+	if(c === fizz){
+		console.log("Fizz");
+	} else if(c === buzz){
+		console.log("Buzz");
+	} else {
+		console.log(c)
+	} 
+}

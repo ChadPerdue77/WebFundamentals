@@ -95,7 +95,7 @@ function taxes(price, x){
 	var taxQuan = initPrice * tax;
 	var finalTotal = initPrice + taxQuan;
 	console.log("Initial Price:", + initPrice);
-	console.log("Taxes:", + taxQuan);
+	console.log("Taxes Cost:", + taxQuan);
 	console.log("Price after Taxes:", + finalTotal);
 }
 
