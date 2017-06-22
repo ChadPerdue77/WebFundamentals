@@ -16,10 +16,6 @@ if(age === 40){
 
 
 
-
-
-
-
 var password = "lilpumpyah";
 
 if(password === "lilpumpyah"){
@@ -27,6 +23,9 @@ if(password === "lilpumpyah"){
 } else {
 	console.log("Incorrect Password");
 }
+
+
+
 
 //not old password
 //8 characters
